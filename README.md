@@ -39,6 +39,4 @@ Let’s build the future — smarter, faster, and decentralized.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritsuyan&show_icons=true&locale=en&layout=compact" alt="ritsuyan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritsuyan&show_icons=true&locale=en" alt="ritsuyan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritsuyan&" alt="ritsuyan" /></p>
